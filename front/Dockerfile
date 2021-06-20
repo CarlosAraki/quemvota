@@ -1,4 +1,3 @@
-# Imagem baseada em https://blog.codeexpertslearning.com.br/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js-f6a22e93bc5d
 # Imagem de Origem
 FROM node:13-alpine
 # Diretório de trabalho(é onde a aplicação ficará dentro do container).
