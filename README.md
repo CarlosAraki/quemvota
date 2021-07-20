@@ -18,3 +18,5 @@ chmod +x scriptDeploy.sh
 
 ## Back
 - Node.js
+
+## banco sera ém mongo db com umas collections
